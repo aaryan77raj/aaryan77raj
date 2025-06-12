@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
   [![Email](https://img.shields.io/badge/Gmail-aaryan77raj@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aaryan77raj@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-aaryan77raj-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aaryan77raj)
   [![GitHub](https://img.shields.io/badge/GitHub-aaryan77raj-black?style=flat-square&logo=github)](https://github.com/aaryan77raj)
-- 😄 Pronouns: **he/him**
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I’m also a **singer-songwriter and guitarist**, passionate about blending technology with creativity 🎸🎶
 
 ---
