@@ -22,7 +22,7 @@ Welcome to my GitHub profile!
 ## 📫 Let’s Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-aaryan77raj@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aaryan77raj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aaryan77raj-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/aaryan77raj]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aaryan--raj7-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aaryan-raj7/)
 [![GitHub](https://img.shields.io/badge/GitHub-aaryan77raj-black?style=flat-square&logo=github)](https://github.com/aaryan77raj)
 
 ---
